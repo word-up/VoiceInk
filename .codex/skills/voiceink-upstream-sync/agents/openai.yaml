@@ -1,0 +1,4 @@
+interface:
+  display_name: "VoiceInk Sync"
+  short_description: "Sync upstream VoiceInk safely"
+  default_prompt: "Use $voiceink-upstream-sync to update VoiceInk from upstream without losing local app data."
